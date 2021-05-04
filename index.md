@@ -11,7 +11,7 @@ instructor: ["Aleksandra Nenadic", "Steve Crouch"] # boxed, comma-separated list
 helper: ["None"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["a.nenadic@manchester.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 etherpad: https://pad.carpentries.org/2021-06-15-ttt-ssi-online            # optional: URL for the workshop Etherpad if there is one
-eventbrite: "136951643051"           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: "153471783235"           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
     address: "Software Sustainability Institute, UK"
