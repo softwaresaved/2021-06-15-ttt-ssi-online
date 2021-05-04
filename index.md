@@ -40,7 +40,7 @@ locations:
 {% comment %}
 {% if page.eventbrite %}
 <iframe
-  src="https://www.eventbrite.com/e/{{page.eventbrite}}"
+  src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
   frameborder="0"
   width="100%"
   height="248px"
@@ -144,7 +144,7 @@ attempt to provide them.
 {% endif %}
 
 <h3>Registration</h3>
-Registration is free <a href="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt" target="_blank">
+Registration is free <a href="https://www.eventbrite.com/e/{{page.eventbrite}}" target="_blank">
 via EventBrite</a>. You will need a special code to register - please get in touch with 
 <a href='mailto:{{contact}}'>Aleksandra Nenadic</a> to apply for the training. Priority will be given to participants 
 from UK institutions that __do not__ have a partnership with The Carpentries, so cannot get onto Instructor Training 
