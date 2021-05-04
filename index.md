@@ -40,7 +40,7 @@ locations:
 {% comment %}
 {% if page.eventbrite %}
 <iframe
-  src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
+  src="https://www.eventbrite.com/e/{{page.eventbrite}}"
   frameborder="0"
   width="100%"
   height="248px"
