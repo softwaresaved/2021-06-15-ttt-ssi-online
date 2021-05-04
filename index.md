@@ -15,7 +15,7 @@ eventbrite: "136951643051"           # optional: alphanumeric key for Eventbrite
 locations:
   - venue: "Online"
     address: ""
-    
+    latlng: "55.94563769856673,-3.1867045140559007"    
 ---
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
