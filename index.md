@@ -269,13 +269,13 @@ scheduled end time.</em></p>
   <div class="col-md-6">
     <h3>Day 1, Tuesday 15 June 2021</h3>
     <table class="table table-striped">
-      <tr> <td>13:00-13:30</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/01-welcome/index.html">Welcome and Introduction</a></td> </tr>
-      <tr> <td>13:30-14:00</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Building Skill With Practice</a></td> </tr>
-      <tr> <td>14:00-14:15</td> <td>Break</td> </tr>
-      <tr> <td>14:15-15:15</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/03-expertise/index.html">Expertise and Instruction</a></td> </tr>
-      <tr> <td>15:15-15:30</td> <td>Break</td> </tr>
-      <tr> <td>15:30-16:15</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/05-memory/index.html">Memory and Cognitive Load</a></td> </tr>
-      <tr> <td>16:15-16:30</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/06-feedback/index.html">Building Skill With Feedback</a></td> </tr>
+      <tr> <td></td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/01-welcome/index.html">Welcome and Introduction</a></td> </tr>
+      <tr> <td></td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Building Skill With Practice</a></td> </tr>
+      <tr> <td>10:15-10:30</td> <td>Break</td> </tr>
+      <tr> <td></td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/03-expertise/index.html">Expertise and Instruction</a></td> </tr>
+      <tr> <td>11:30-11:45</td> <td>Break</td> </tr>
+      <tr> <td></td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/05-memory/index.html">Memory and Cognitive Load</a></td> </tr>
+      <tr> <td></td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/06-feedback/index.html">Building Skill With Feedback</a></td> </tr>
     </table>
   </div>
   <div class="col-md-6">
