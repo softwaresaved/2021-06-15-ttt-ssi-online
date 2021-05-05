@@ -301,7 +301,7 @@ scheduled end time.</em></p>
           <tr><td>Break</td> </tr>
           <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/15-lesson-study/index.html">Preparing to Teach</a></td> </tr>
           <tr><td>Break</td> </tr>
-          <tr><a target="_blank" href="https://carpentries.github.io/instructor-training/17-performance/index.html">More Practice Live Coding</a></td> </tr>
+          <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/17-performance/index.html">More Practice Live Coding</a></td> </tr>
           <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/18-management/index.html">Managing a Diverse Classroom</a></td> </tr>
         </table>
   </div>
