@@ -267,53 +267,53 @@ scheduled end time.</em></p>
 
 <div class="row">
   <div class="col-md-6">
-    <h3>Day 1, Tuesday 15 June 2021</h3>
+    <h3>Day 1, Tuesday 15 June 2021, 09:15-12:30</h3>
     <table class="table table-striped">
-      <tr> <td></td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/01-welcome/index.html">Welcome and Introduction</a></td> </tr>
-      <tr> <td></td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Building Skill With Practice</a></td> </tr>
-      <tr> <td>10:15-10:30</td> <td>Break</td> </tr>
-      <tr> <td></td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/03-expertise/index.html">Expertise and Instruction</a></td> </tr>
-      <tr> <td>11:30-11:45</td> <td>Break</td> </tr>
-      <tr> <td></td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/05-memory/index.html">Memory and Cognitive Load</a></td> </tr>
-      <tr> <td></td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/06-feedback/index.html">Building Skill With Feedback</a></td> </tr>
+      <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/01-welcome/index.html">Welcome and Introduction</a></td> </tr>
+      <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Building Skill With Practice</a></td> </tr>
+      <tr></td> <td>Break</td> </tr>
+      <tr><a target="_blank" href="https://carpentries.github.io/instructor-training/03-expertise/index.html">Expertise and Instruction</a></td> </tr>
+      <tr></td> <td>Break</td> </tr>
+      <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/05-memory/index.html">Memory and Cognitive Load</a></td> </tr>
+      <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/06-feedback/index.html">Building Skill With Feedback</a></td> </tr>
     </table>
   </div>
   <div class="col-md-6">
-    <h3>Day 2, Wednesday 16 June 2021</h3>
+    <h3>Day 2, Wednesday 16 June 2021, 09:15-12:30</h3>
     <table class="table table-striped">
-      <tr> <td>13:00-13:15</td> <td>Recap of Day 1</td> </tr>
-      <tr> <td>13:15-14:00</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/08-motivation/index.html">Motivation and Demotivation</a></td> </tr>
-      <tr> <td>14:00-14:15</td> <td>Break</td> </tr>
-      <tr> <td>14:15-15:15</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/09-mindset/index.html">Mindset</a></td> </tr>
-      <tr> <td>15:15-15:30</td> <td>Break</td> </tr>
-      <tr> <td>15:30-16:15</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/11-practice-teaching/index.html">Teaching is a (Learned) Skill</a></td> </tr>
-      <tr> <td>16:15-16:30</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/12-homework/index.html">Wrap-Up and Homework for Tomorrow</a></td> </tr>
+      <tr><td>Recap of Day 1</td> </tr>
+      <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/08-motivation/index.html">Motivation and Demotivation</a></td> </tr>
+      <tr><td>Break</td> </tr>
+      <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/09-mindset/index.html">Mindset</a></td> </tr>
+      <tr><td>Break</td> </tr>
+      <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/11-practice-teaching/index.html">Teaching is a (Learned) Skill</a></td> </tr>
+      <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/12-homework/index.html">Wrap-Up and Homework for Tomorrow</a></td> </tr>
    </table>
   </div>
 </div>
 
 <div class="row">
   <div class="col-md-6">
-    <h3>Day 3, Thursday 17 June 2021</h3>
+    <h3>Day 3, Thursday 17 June 2021, 09:15-12:30</h3>
         <table class="table table-striped">
-          <tr> <td>13:00-13:15</td> <td>Recap from Day 2</td> </tr>
-          <tr> <td>13:15-14:15</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/14-live/index.html">Live Coding is a Skill</a></td> </tr>
-          <tr> <td>14:15-14:30</td> <td>Break</td> </tr>
-          <tr> <td>14:30-15:15</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/15-lesson-study/index.html">Preparing to Teach</a></td> </tr>
-          <tr> <td>15:15-15:30</td> <td>Break</td> </tr>
-          <tr> <td>15:30-16:15</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/17-performance/index.html">More Practice Live Coding</a></td> </tr>
-          <tr> <td>16:15-16:30</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/18-management/index.html">Managing a Diverse Classroom</a></td> </tr>
+          <tr></td> <td>Recap from Day 2</td> </tr>
+          <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/14-live/index.html">Live Coding is a Skill</a></td> </tr>
+          <tr><td>Break</td> </tr>
+          <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/15-lesson-study/index.html">Preparing to Teach</a></td> </tr>
+          <tr><td>Break</td> </tr>
+          <tr><a target="_blank" href="https://carpentries.github.io/instructor-training/17-performance/index.html">More Practice Live Coding</a></td> </tr>
+          <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/18-management/index.html">Managing a Diverse Classroom</a></td> </tr>
         </table>
   </div>
   <div class="col-md-6">
     <h3>Day 4, Friday 18 June 2021</h3>
     <table class="table table-striped">
-          <tr> <td>13:00-14:00</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/20-checkout/index.html">Checkout Process and Q & A session</a></td> </tr>
-          <tr> <td>14:00-14:15</td> <td>Break</td> </tr>
-          <tr> <td>14:15-15:00</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/21-carpentries/index.html">The Carpentries: How We Operate</a></td> </tr>
-          <tr> <td>15:00-15:15</td> <td>Break</td> </tr>
-          <tr> <td>15:15-16:15</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/24-practices/index.html">Putting It Together</a></td> </tr>
-          <tr> <td>16:15-16:30</td> <td>Wrap-up & <a target="_blank" href="{{ site.instructor_post_survey }}{{ site.github.project_title }}">Post-Workshop Survey</a></td> </tr>
+          <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/20-checkout/index.html">Checkout Process and Q & A session</a></td> </tr>
+          <tr><td>Break</td> </tr>
+          <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/21-carpentries/index.html">The Carpentries: How We Operate</a></td> </tr>
+          <tr><td>Break</td> </tr>
+          <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/24-practices/index.html">Putting It Together</a></td> </tr>
+          <tr><td>Wrap-up & <a target="_blank" href="{{ site.instructor_post_survey }}{{ site.github.project_title }}">Post-Workshop Survey</a></td> </tr>
     </table>
   </div>
 </div>
