@@ -271,9 +271,9 @@ scheduled end time.</em></p>
     <table class="table table-striped">
       <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/01-welcome/index.html">Welcome and Introduction</a></td> </tr>
       <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Building Skill With Practice</a></td> </tr>
-      <tr></td> <td>Break</td> </tr>
+      <tr><td>Break</td> </tr>
       <tr><a target="_blank" href="https://carpentries.github.io/instructor-training/03-expertise/index.html">Expertise and Instruction</a></td> </tr>
-      <tr></td> <td>Break</td> </tr>
+      <tr><td>Break</td> </tr>
       <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/05-memory/index.html">Memory and Cognitive Load</a></td> </tr>
       <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/06-feedback/index.html">Building Skill With Feedback</a></td> </tr>
     </table>
@@ -296,7 +296,7 @@ scheduled end time.</em></p>
   <div class="col-md-6">
     <h3>Day 3, Thursday 17 June 2021, 09:15-12:30</h3>
         <table class="table table-striped">
-          <tr></td> <td>Recap from Day 2</td> </tr>
+          <tr><td>Recap from Day 2</td> </tr>
           <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/14-live/index.html">Live Coding is a Skill</a></td> </tr>
           <tr><td>Break</td> </tr>
           <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/15-lesson-study/index.html">Preparing to Teach</a></td> </tr>
