@@ -284,9 +284,8 @@ scheduled end time.</em></p>
       <tr><td>Recap of Day 1</td> </tr>
       <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/08-motivation/index.html">Motivation and Demotivation</a></td> </tr>
       <tr><td>Break</td> </tr>
-      <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/09-mindset/index.html">Mindset</a></td> </tr>
+      <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/11-practice-teaching/index.html">Teaching is a (Learned) Skill: Building Teaching Skill With Practice</a></td> </tr>      
       <tr><td>Break</td> </tr>
-      <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/11-practice-teaching/index.html">Teaching is a (Learned) Skill</a></td> </tr>
       <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/12-homework/index.html">Wrap-Up and Homework for Tomorrow</a></td> </tr>
    </table>
   </div>
