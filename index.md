@@ -306,9 +306,9 @@ scheduled end time.</em></p>
   <div class="col-md-6">
     <h3>Day 4, Friday 18 June 2021, 09:15-12:30</h3>
     <table class="table table-striped">
-          <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/20-checkout/index.html">Checkout Process and Q & A session</a></td> </tr>
-          <tr><td>Break</td> </tr>
           <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/21-carpentries/index.html">The Carpentries: How We Operate</a></td> </tr>
+          <tr><td>Break</td> </tr>
+          <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/20-checkout/index.html">Checkout Process and Q & A session</a></td> </tr>
           <tr><td>Break</td> </tr>
           <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/24-practices/index.html">Putting It Together</a></td> </tr>
           <tr><td>Wrap-up & <a target="_blank" href="{{ site.instructor_post_survey }}{{ site.github.project_title }}">Post-Workshop Survey</a></td> </tr>
