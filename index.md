@@ -296,7 +296,7 @@ scheduled end time.</em></p>
   <div class="col-md-6">
     <h3>Day 3, Thursday 17 June 2021, 09:15-12:30</h3>
         <table class="table table-striped">
-          <tr><td>Recap from Day 2</td> </tr>
+          <tr><td>Recap of Day 2</td> </tr>
           <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/14-live/index.html">Live Coding is a Skill</a></td> </tr>
           <tr><td>Break</td> </tr>
           <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/15-lesson-study/index.html">Preparing to Teach</a></td> </tr>
